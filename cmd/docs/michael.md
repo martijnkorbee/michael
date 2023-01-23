@@ -5,6 +5,7 @@ Michael is a mortgage calculator
 ### Synopsis
 
 Michael is able to calculate a mortgage costs overview and inserts the results into a sqlite database.
+Calculations are based on The Netherlands and might be incorrect, be aware.. and always verify.
 
 ### Options
 
