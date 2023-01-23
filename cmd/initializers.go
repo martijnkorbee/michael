@@ -36,7 +36,7 @@ func mustPrepareDB(name string) {
 	}
 
 	// create new table
-	file := fmt.Sprintf("templates/migrations/%s_mortgage_tables.sql", name)
+	file := fmt.Sprintf("files/migrations/%s_mortgage_tables.sql", name)
 
 	q, err := binFS.ReadFile(file)
 	if err != nil {
