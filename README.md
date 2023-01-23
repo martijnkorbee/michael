@@ -1,11 +1,19 @@
-## michael
+<div align="center">
+  <img src="https://raw.githubusercontent.com/martijnkorbee/michael/master/gopher.png" width="150">
+  <h1 align="center">Michael</h1>
+</div>
 
-Michael is a mortgage calculator.
-Calculations are based on the Dutch mortgages.
+<div>
+  <p>
+  💥 Gopher by: https://github.com/MariaLetta/free-gophers-pack<br>
+  🐍 CLI-tools with: https://github.com/spf13/cobra<br>
+  </p>
+</div>
 
 ### Synopsis
 
-Michael is able to calculate a mortgage costs overview and inserts the results into a sqlite database.
+Michael is able to calculate a mortgage costs overview and inserts the results into a sqlite database.<br>
+Calculations are based on The Netherlands and might be incorrect, be aware.. and always verify.
 
 ### Options
 
