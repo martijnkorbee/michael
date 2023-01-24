@@ -10,6 +10,13 @@
   </p>
 </div>
 
+<div>
+  <p>
+    <b>Note</b>: <i>Michael is written with a self serving purpose and not optimized for use by others (hence the lack of instructions).<br>
+    However, feel free to ask questions, contribute or make suggestions. Greetings.</i></p>
+</div>
+<hr>
+
 ### Synopsis
 
 Michael is able to calculate a mortgage costs overview and inserts the results into a sqlite database.<br>
